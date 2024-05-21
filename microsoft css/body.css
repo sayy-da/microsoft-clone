@@ -1,0 +1,132 @@
+
+p{
+  font-family: 'Segoe UI', sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
+body{
+  margin: 0;
+}
+h2{
+ font-family: "Segoe UI", Segoe UI, "helvetica Neue", helventica, arial, sans-serif;
+ color: black;
+ font-weight: 600;
+ line-height: 28px;
+ font-size: 21px;
+
+}
+.main-image{
+  width: 100%;
+  cursor: pointer;
+  height: 500px;
+  position: absolute;
+  padding-left: 5px;
+
+}
+.heading{
+
+  font-family:Segoe UI;
+  font-size: 33px;
+  color: black;
+  font-weight: 600;
+  width: 340px;
+  margin:0 ;
+}
+.discribtion{
+ color: rgb(0, 0, 0);
+ font-family: Segoe UI;
+ width: 370px;
+ font-size: 16px;
+ margin-bottom: 20px;
+ margin-left: 20px;
+
+}
+.box-celebration{
+padding: 50px;
+  width: 370px;
+  height: 250px;
+  background-color: white;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between ;
+  left: 70px;
+  top: 60px;
+}
+.explore-button{
+  font-weight: bold;
+  font-size: 15px;
+  background-color: rgb(0,103, 184);
+  padding: 14px;
+  border-radius: 2px;
+  border: none;
+  color: white;
+  font-family: arial;
+  width: 250px;
+ margin-top: 20px;
+}
+.box3{
+  position: absolute;
+  top: 200px;
+  left: 920px;
+
+}
+.box2{
+  position: relative;
+}
+.main-image-2{
+  height: 500px;
+  width: 90%;
+ margin-left: 80px
+}
+
+.icons{
+  display: flex;
+  height: 400px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 300px;
+  margin-right: 390px;
+}
+.icon-link{
+  margin-top: 0;
+  height: 400px;
+  display: flex;
+ flex-direction: column;
+ margin-right: 30px;
+ margin-left: 10px;
+}
+.icon{
+  margin-top: 280px;
+  width: 40px;
+  display: flex;
+  margin-left: 30px;
+}
+.icon-content{
+width: 200px;
+margin-left: -18px;
+color: rgb(58, 58, 163);
+font-weight: 600;
+text-decoration: underline;
+}
+.heading2{
+  font-family:Segoe UI;
+  font-size: 33px;
+  color: black;
+  font-weight: 600;
+  width: 340px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+.logo{
+height: 30px;
+}
+.follow{
+  display: flex;
+}
+h1{
+  margin-left:80px ;
+  font-family: segoe UI;
+  font-size: 30px;
+}

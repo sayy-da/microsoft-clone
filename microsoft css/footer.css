@@ -1,0 +1,41 @@
+.footer{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color:rgb(242, 242, 242) ;
+  height:364px ;
+}
+.footer-cover{
+  background-color: rgb(242, 242, 242);
+
+}
+.sub-heading{
+color: rgb(97, 97, 97);
+font-weight: 600;
+line-height: 20px;
+padding-bottom: 4px;
+font-family: Segoe UI;
+font-size: 15px;
+padding-top: 36;
+text-align: left;
+margin-bottom: 0;
+
+}
+.points{
+  color: rgb(97, 97, 97);
+  cursor: pointer;
+  font-family: Segoe UI ;
+  font-size: 11px;
+  font-weight: 400px;
+  text-align: left;
+  padding-top: 16px;
+}
+.footer-down{
+  background-color: rgb(242, 242, 242);
+  padding-bottom: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
+  display: flex;
+  justify-content: space-between;
+}
